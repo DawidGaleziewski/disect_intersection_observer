@@ -1,0 +1,14 @@
+section {
+  height: 500px;
+  background-color: black;
+  margin-bottom: 60px;
+}
+
+section h2 {
+  background-color: #fff;
+  border: 1px solid black;
+}
+
+.highlight {
+  background-color: cadetblue;
+}
